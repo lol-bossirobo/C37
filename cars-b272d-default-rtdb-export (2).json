@@ -1,0 +1,26 @@
+{
+  "gameState" : 1,
+  "playerCount" : 5,
+  "players" : {
+    "player1" : {
+      "distance" : 0,
+      "name" : "nameHere"
+    },
+    "player2" : {
+      "distance" : 0,
+      "name" : "nameHere"
+    },
+    "player3" : {
+      "distance" : 0,
+      "name" : "nameHere"
+    },
+    "player4" : {
+      "distance" : 0,
+      "name" : "nameHere"
+    },
+    "player5" : {
+      "distance" : 0,
+      "name" : "nameHere"
+    }
+  }
+}
